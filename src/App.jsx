@@ -15,7 +15,7 @@ export default function App() {
         title: "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
         body: "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
         image: "https://picsum.photos/500",
-        category: "profile"
+        category: "Dummy"
       },
       {
         userId: 1,
@@ -23,7 +23,7 @@ export default function App() {
         title: "qui est esse",
         body: "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla",
         image: "https://picsum.photos/500",
-        category: "home"
+        category: "Dummy"
       },
       {
         userId: 1,
@@ -31,7 +31,7 @@ export default function App() {
         title: "ea molestias quasi exercitationem repellat qui ipsa sit aut",
         body: "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut",
         image: "https://picsum.photos/500",
-        category: "about me"
+        category: "Dummy"
       },
       {
         userId: 1,
@@ -39,7 +39,7 @@ export default function App() {
         title: "eum et est occaecati",
         body: "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
         image: "https://picsum.photos/500",
-        category: "contact"
+        category: "Dummy"
       },
       {
         userId: 1,
@@ -47,7 +47,7 @@ export default function App() {
         title: "nesciunt quas odio",
         body: "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque",
         image: "https://picsum.photos/500",
-        category: "home"
+        category: "Dummy"
       },
     ],
   };
